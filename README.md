@@ -15,7 +15,7 @@ At the end of the day you should use this notebook as a way to start a baseline 
 ## Features with Joplin:
 - Notes can be searchable, copied, tagged, and modified either from the applications directly or from your text editor.
 - Markdown Editor and Reader. Easy to import and export notes to multiple formats. 
-- [WebClipper][WebClipper] to save web pages and screenshot from Firefox and Chrome Browser
+- WebClipper to save web pages and screenshot from Firefox and Chrome Browser
 - Sync notes on various cloud applications such as NextCloud, Dropbox, OneDrive, and Amazon S3
 - Sync notes on a local file share or WebDav. 
 - A large repository of community plugins to integrate your note-taking.
