@@ -45,3 +45,12 @@ an issue in the repo.
 
 ## Credit
 
+I want to quickly recognize and thank those that helped me provide there suggestions and feedback as I continued working on developing this notebook:
+
+rag_sec
+Adrestia
+0xDISREL
+Andrew Nowlin
+5nacks
+Alethe Denis: https://twitter.com/AletheDenis
+
