@@ -112,7 +112,6 @@
 - Certain tow companies may have searchable registries on their websites
 - VINCHECKINFO's Reddit [thread](https://www.reddit.com/r/LICENSEPLATES/comments/bm3djr/dmv_license_plate_lookup/) on states with public registry tools
 - For additional tools, [cipher387](https://github.com/cipher387) has an incredible collection of 1000+ tools [here](https://github.com/cipher387/osint_stuff_tool_collection)
-- Some map services ([Bing](https://www.bing.com/maps/), [Google](https://www.google.com/maps)) and [Google Earth](https://earth.google.com/) offer timeline revert features to view older streetview versions
 - CyberopsIntel's [article](https://www.cyberoneintel.com/post/back-to-the-basics-with-asset-tracing) on semi-truck OSINT
 
 Orginal Source: https://github.com/TheBurnsy/Vehicle-OSINT-Collection
