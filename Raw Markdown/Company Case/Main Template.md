@@ -25,7 +25,7 @@
 ## Offices/Facilities of Interest: 
 -
 
-# Social Media Precensce:
+# Social Media Presence:
 
 ## List company social media presences that the company uses:
 -
@@ -64,9 +64,9 @@
 ## List people that could be of interest to the case
 -
 
-# Third Party Suppliers/Supply Chain Companies: 
+# Third-Party Suppliers/Supply Chain Companies: 
 
-## Main Subsidaries:
+## Main Subsidiaries:
 -
 
 # Other Related Companies:
