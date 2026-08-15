@@ -5,7 +5,7 @@
 ### General Search Engines
 - [Google](https://www.google.com/)
 - [Bing](https://www.bing.com/)
-- [Yahoo!](http://www.yahoo.com/)
+- [Yahoo!](https://www.yahoo.com/)
 - [Yandex](https://yandex.com/)
 
 
@@ -181,6 +181,7 @@ These can be useful for osint and social engineering.
 - [Weibo](https://weibo.com/)
 - [Tinder](https://tinder.com/)
 - [WhatsMyName](https://whatsmyname.app/)
+- [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) - Independent X (Twitter) data API for search, follower export, monitors, and MCP.
 
 ### Phone numbers
 - [RocketReach](https://rocketreach.co/)
